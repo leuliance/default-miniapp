@@ -1,0 +1,5 @@
+{
+  "include": ["**/*.ts","/pages/**/*.ts"],
+  "axmlStrictCheck": true,
+  "enableNodeModuleBabelTransform": true
+}
